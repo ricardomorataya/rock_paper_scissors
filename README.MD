@@ -1,0 +1,1 @@
+This is my very first attempt to create a project using JavaScript.
